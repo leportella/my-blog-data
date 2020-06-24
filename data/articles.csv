@@ -1,0 +1,98 @@
+year,month,title,lang,categories,is_translated,is_post,is_cheatsheet,is_interview,is_talk,is_handbook
+2017,03,My first year as a developer,english,['english'],True,True,False,False,False,False
+2019,01,The most common data science tools,english,['english'],True,True,False,False,False,False
+2016,05,There is just too much information..,english,['english'],False,True,False,False,False,False
+2016,10,Dev para leigos,pt-br,['pt-br'],True,True,False,False,False,False
+2019,02,"Minha experiência com blogs, sites e meus textos",pt-br,['pt-br'],True,True,False,False,False,False
+2020,05,What does it mean to test software?,english,"['english', 'handbook']",False,False,False,False,False,True
+2019,01,SQLAlchemy Basics Tutorial,english,['english'],True,True,False,False,False,False
+2016,03,The same old story: how can I start learning to code?,english,['english'],False,True,False,False,False,False
+2019,03,Why should your company be in technology communities? ,english,['english'],True,True,False,False,False,False
+2019,10,Que belo dia para a ciência!,pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2019,02,Outreachy Report V,english,['english'],False,True,False,False,False,False
+2019,01,Adding relationship to tables already created on SQLAlchemy,english,['english'],False,True,False,False,False,False
+2018,05,Meus 'truques' preferidos em Python - Parte I,pt-br,['pt-br'],False,True,False,False,False,False
+2019,01,Pytest - My Cheat Sheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2018,12,O que fazer quando faltam dados?,pt-br,['pt-br'],True,True,False,False,False,False
+2018,09,My favorite testing tools on Django,english,['english'],False,True,False,False,False,False
+2020,04,Minha saga aprendendo Scala - Parte 1,pt-br,['pt-br'],True,True,False,False,False,False
+2016,11,Como revisar código alheio?,pt-br,['pt-br'],True,True,False,False,False,False
+2020,02,Como é ser uma nova engenheira de software na Stripe,pt-br,['pt-br'],True,True,False,False,False,False
+2020,04,My saga learning Scala - Part 2,english,['english'],True,True,False,False,False,False
+2016,06,A tale of a kingdom far far away in another dimension,english,['english'],False,True,False,False,False,False
+2020,06,"Classes, Objects and Traits in Scala",english,['english'],False,True,False,False,False,False
+2018,11,Opinião: Nanodegree de Eng. de Machine Learning,pt-br,['pt-br'],True,True,False,False,False,False
+2020,06,Como eu lido com minha síndrome de impostora,pt-br,['pt-br'],True,True,False,False,False,False
+2020,04,From Oceanographer to self-taught developer working at Stripe,english,"['english', 'interview']",False,False,False,True,False,False
+2020,04,SQL - My Cheat Sheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2016,03,From oceanographer to programmer,english,['english'],True,True,False,False,False,False
+2017,04,How to make simple endpoints with Django using Restless,english,['english'],False,True,False,False,False,False
+2017,03,How to review someone else's code,english,['english'],True,True,False,False,False,False
+2017,10,Um conto da montanha,pt-br,['pt-br'],False,True,False,False,False,False
+2017,04,Mulheres ambiciosas,pt-br,['pt-br'],True,True,False,False,False,False
+2018,09,Predicting victims on national roads in Brazil - Part I,english,['english'],False,True,False,False,False,False
+2018,08,Usando MongoDB com Python e MongoEngine <3,pt-br,['pt-br'],True,True,False,False,False,False
+2019,01,Opinion: Machine Learning Engineer Nanodegree,english,['english'],True,True,False,False,False,False
+2017,03,How we used generic relations to add comments to model instances,english,['english'],True,True,False,False,False,False
+2017,11,Brincando de Processamento Natural de Linguagem com spaCy,pt-br,['pt-br'],False,True,False,False,False,False
+2019,01,Outreachy Report III,english,['english'],False,True,False,False,False,False
+2019,10,What's beyond Django Girls tutorial? Introduction to Class Based Views,english,"['english', 'talks']",False,False,False,False,True,False
+2020,04,Classes in Scala: method and attribute definition,english,['english'],False,True,False,False,False,False
+2018,01,Um breve estudo sobre outliers,pt-br,['pt-br'],False,True,False,False,False,False
+2019,01,What to do when data is missing?,english,['english'],True,True,False,False,False,False
+2019,06,O que eu encontrei de melhor para estudar ciência da computação,pt-br,['pt-br'],False,True,False,False,False,False
+2019,10,Painel sobre dados abertos e tecnologias cívicas,pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2020,06,O que vem depois do Django Girls,pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2019,02,Outreachy Report IV,english,['english'],False,True,False,False,False,False
+2018,10,O que fazer antes de postar uma pergunta online?,pt-br,['pt-br'],False,True,False,False,False,False
+2019,12,What it's like to be a new software engineer at Stripe,english,['english'],True,True,False,False,False,False
+2020,02,Onde estão as mulheres medíocres?,pt-br,['pt-br'],True,True,False,False,False,False
+2018,04,Python Sul 2018 - Minha experiência pessoal,pt-br,['pt-br'],False,True,False,False,False,False
+2017,05,10 dicas para mudar do Matlab pro Python,pt-br,['pt-br'],True,True,False,False,False,False
+2018,11,Pizza de Dados no Castálio Podcast!,pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2019,01,Outreachy Report II,english,['english'],False,True,False,False,False,False
+2017,01,Um agradecimento e a finalização de uma fase,pt-br,['pt-br'],False,True,False,False,False,False
+2019,02,Simpler authentication for small scale JupyterHubs with NativeAuthenticator,english,['english'],False,True,False,False,False,False
+2020,02,Boosting your career as a developer,english,['english'],True,True,False,False,False,False
+2018,04,Python Sul 2018 - Organização,pt-br,['pt-br'],False,True,False,False,False,False
+2016,10,Programação além do código: comunidade e mulheres na tecnologia [Python Brasil 12],pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2018,05,Sklearn - My Cheat Sheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2019,03,,pt-br,['pt-br'],False,True,False,False,False,False
+2016,03,De oceanógrafa para programadora ,pt-br,['pt-br'],True,True,False,False,False,False
+2018,01,Aprendendo a programar? Aqui vão minhas dicas!,pt-br,['pt-br'],False,True,False,False,False,False
+2018,03,Gêneros e prioridades: o que muda?,pt-br,['pt-br'],False,True,False,False,False,False
+2020,03,My saga learning Scala - Part 1,english,['english'],True,True,False,False,False,False
+2017,09,Class Based Views no Django,pt-br,['pt-br'],True,True,False,False,False,False
+2017,03,Meu primeiro ano como dev,pt-br,['pt-br'],True,True,False,False,False,False
+2018,10,Por que a sua empresa deveria estar em comunidades de tecnologia,pt-br,['pt-br'],True,True,False,False,False,False
+2020,02,Where are the mediocre women?,english,['english'],True,True,False,False,False,False
+2017,04,The Ambicious women,english,['english'],True,True,False,False,False,False
+2019,01,As principais ferramentas de desenvolvimento em ciência de dados,pt-br,['pt-br'],True,True,False,False,False,False
+2018,12,Outreachy Report I,english,['english'],False,True,False,False,False,False
+2020,03,Entrevista Capterra com mulheres em tecnologia,pt-br,"['pt-br', 'interview']",False,False,False,True,False,False
+2019,02,"My experience with blogs, websites and my posts",english,['english'],True,True,False,False,False,False
+2018,01,Um breve estudo sobre outliers - Estudo de Caso,pt-br,['pt-br'],False,True,False,False,False,False
+2020,05,Um novo autenticador para o JupyterHub,pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2018,01,Git - My Cheat Sheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2020,05,How I deal with my impostor syndrome,english,['english'],True,True,False,False,False,False
+2017,11,Pandas - My Cheatsheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2020,03,Tutorial básico de SQLAlchemy,pt-br,['pt-br'],True,True,False,False,False,False
+2016,05,Programação além do código: comunidade e mulheres na tecnologia [Caipyra],pt-br,"['pt-br', 'talks']",False,False,False,False,True,False
+2020,04,Minha saga aprendendo Scala - Parte 2 ,pt-br,['pt-br'],True,True,False,False,False,False
+2018,03,How to contribute to an open-source project without writing any code,english,['english'],True,True,False,False,False,False
+2018,07,10 tips for switching from Matlab to Python,english,['english'],True,True,False,False,False,False
+2017,10,How to run parallel processes?,english,['english'],True,True,False,False,False,False
+2016,12,Dev for dummies,english,['english'],True,True,False,False,False,False
+2019,02,Data Visualization - My Cheat Sheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2019,05,Precisamos falar sobre Julia,pt-br,['pt-br'],False,True,False,False,False,False
+2016,05,Are we getting the wrong career advises?,english,['english'],False,True,False,False,False,False
+2017,10,Como rodar processos em paralelo?,pt-br,['pt-br'],True,True,False,False,False,False
+2020,02,Impulsionando sua carreira como desenvolvedora,pt-br,['pt-br'],True,True,False,False,False,False
+2016,12,Como usamos Relações Genéricas do Django para adicionar comentários em instâncias de diferentes modelos,pt-br,['pt-br'],True,True,False,False,False,False
+2019,01,Predicting victims on national roads in Brazil - Part II,english,['english'],False,True,False,False,False,False
+2017,11,Class Based Views on Django,english,['english'],True,True,False,False,False,False
+2018,08,Using MongoDB with Python and MongoEngine <3,english,['english'],True,True,False,False,False,False
+2019,06,We need to talk about Julia language,english,['english'],False,True,False,False,False,False
+2018,05,Machine Learning Models - My Cheat Sheet,english,"['english', 'cheatsheet']",False,False,True,False,False,False
+2017,04,Como contribuir para um projeto open-source pela primeira vez sem escrever código,pt-br,['pt-br'],True,True,False,False,False,False
+2020,06,Why you should have a blog (and write in it),english,['english'],False,True,False,False,False,False
